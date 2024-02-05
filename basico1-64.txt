@@ -1,0 +1,34 @@
+-Como Vai funcionar o Estudo para Programação:
+-Cuidado com imediatismo querer tudo agora.
+
+Modo de estudo:
+1.Vai assistir 10 aulas
+-Vai tentar escrever o codigo da aula sem olhar
+-Explicar em voz alta,pra vc mesmo como se fosse uma criança,tentando de varias formas diferentes 
+-Comentar o código 
+
+2.Revisão:
+-Revisar 10 ultimas aulas
+-Explicar em voz alta 
+
+3.Modo de duvida:
+-se tiver duvida usa a lupa é pesquise 
+-organize a aula com qual modolo que ela está
+
+4.Dica valiosa:
+-estude apenas uma linguagem de Programação!
+-escolha apenas um Framework é estude apenas elas como especifica!
+-saber todos os passos no projeto!
+-Pratica leva a perfeição!
+-Depois  de fazer curso,tente fazer seu proprio projeto sem tutorial!
+-Tente arrumar alguem pra te ajudar na sua linguagem(feedback)
+
+5.Sua linguagem será:
+-Python(Desenvolvimento_Web.) #Foque apenas nela,pra alcançar altos salários
+
+6.Trabalho:
+-So depois de aprender na Onicode o Python e Ingles
+-Apenas Freelance(vc escolhe qualquer horario)
+-Vai nos modulos pra montar curriculo(So quando terminar).
+-Vai tentando pra o exterior pede feedback(hibrido ou remoto)
+
